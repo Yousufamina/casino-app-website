@@ -2,60 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf277cc0-dc7f-40c2-8032-bc1a0e83c86c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/paper-kit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/paper-kit.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/paper-kit.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/a1-new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/a2-new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/a3-new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/a4-new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/homeScreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mobileScreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/bootstrap-switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/jquery-ui-1.12.1.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/nouislider.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/paper-kit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/paper-kit.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/paper-kit.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/popper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/popper.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/69f0792f-0971-4cdf-b5ba-46b902ff3667.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backgroundImage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ImageSlider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MainContent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Section.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SectionDownload.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/bg-showcase-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stylesNew.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +64,7 @@
       <workItem from="1642760778154" duration="678000" />
       <workItem from="1644315684573" duration="494000" />
       <workItem from="1644405531389" duration="190000" />
-      <workItem from="1657304435875" duration="11167000" />
+      <workItem from="1657304435875" duration="12825000" />
     </task>
     <servers />
   </component>
